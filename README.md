@@ -10,7 +10,7 @@ Minkyu Yun
 
 ## Experience
 
-####Redesign the expereience of kpop fangirling/fanboying
+#### Redesign the expereience of kpop fangirling/fanboying
 
 **Target Users:** K-pop fans who have motivations to support or consume materials/media related to their kpop stars.
 
@@ -118,7 +118,8 @@ He watches/listens to all the reality shows and radios that Lovelys is on
 	* Went to hip hop concert twice  
 ![img](https://github.com/daram529/CS374_HCI_pictures/blob/master/DP1/main_User7_Instagram.jpeg)
 
-8. User 8, User 9, User 10 : Korean, Female, 15 year old -- Minkyu
+8. User 8, User 9, User 10 : Korean, Female, 15 year old -- Minkyu  
+(didn't interview them personally, so couldn't get photos)
 	* 30,000~150,000 wons to join official fan club / get goods/card tickets (live music banks)
 	* Hard to get signing ticket
 	* Wishes to have an app/web for searching/browsing all schedule
@@ -157,10 +158,10 @@ He watches/listens to all the reality shows and radios that Lovelys is on
 11. Most of fans don’t go above and beyond; they consume the media for their own good.  
 
 
-##Studio Reflections
+## Studio Reflections
 
 
-####Feedback from the studio session includes:
+#### Feedback from the studio session includes:
 
  
 **Students' comments**
