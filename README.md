@@ -33,11 +33,11 @@ We defined extremes as “constantly, actively supporting their stars”, wherea
 	* Started fangirling when she was a freshman at KAIST, going through a major phase of academic difficulties. 
 	* Cheered up by watching how hard her idols work, in line with her own feelings/endeavour. When her idol seemed to slack/show off, she stopped fangirling.
 	* Designed her chair for a school project after her favorite idol’s logo; to her, it didn’t feel like work at all. 
-	* Doesn’t want to know too much about the privacy of her idols -- her idol is an icon of her hope, and she doesn’t want 
+	* Doesn’t want to know too much about the privacy of her idols -- her idol is an icon of her hope, and she doesn’t want to ruin it.
 	* “The best part about fangirling is that you don’t expect anything -- you don’t expect anything. There’s nothing to be sad about. Fangirling helped me go through my depression.” 
 	* Listens to idol’s while working, watch one video every once in a while to cheer up
 	* Official site(fancafe) 5 times a day  
-![img](https://drive.google.com/open?id=1qYIsm9n0uO2jS9r1jERrl6bmACVgxeDc)
+![img](https://github.com/daram529/CS374_HCI_pictures/blob/master/DP1/main_User_1_Phonescreens.jpg)
 
 2. User 2 : Korean, Female, Extreme, 23 years old -- Jiyoun
 
@@ -50,7 +50,7 @@ Liked him because he was kind : how he treats others / fans / how he’s thankfu
 	* Learned photoshop to make clips (takes 1+ hour per gif)  from videos while fangirling
 	* Generates guidelines to help internationals comment/react/vote on her idol, as internationals have high accessibility bar
 	* Streams overnight / on multiple screens to help increase idols’ rankings  
-![img](https://github.com/daram529/CS374_HCI_pictures/blob/master/User_1_Instagram.jpg)
+![img](https://github.com/daram529/CS374_HCI_pictures/blob/master/DP1/main_User_2_Room.jpg)
 
 3. User 3 Korean, Male, Moderate, 24 years old -- Hyunjong
 
@@ -64,7 +64,7 @@ Liked him because he was kind : how he treats others / fans / how he’s thankfu
 	* He likes to listen / sing along to their songs in dorm.
 	* Regularly watches saved photos, but not that much.
 Doesn’t store videos in his local device.  
-![img](https://drive.google.com/open?id=1GbRsANMIIXEZl30S1XwQoH7WGzcXV9qC)
+![img](https://github.com/daram529/CS374_HCI_pictures/blob/master/DP1/main_User_3_Calendar.png)
 
 4. User 4 : French, Female, Moderate, 21 years old -- Sindy
  
@@ -77,7 +77,7 @@ Doesn’t store videos in his local device.
 	* She uses an SD card to store her photos. She organizes her photos by group and member. 
 3000 photos BTS ; 2000 photos Pentagon
 	* She said “she’s lazy and will just take what she is given”.  
-![img](https://drive.google.com/open?id=1p05F0JikvCebk-lMfCqWAU5Q2VOHvPbP)
+![img](https://github.com/daram529/CS374_HCI_pictures/blob/master/DP1/main_User_5-3.JPG)
 
 5. User 5 : Korean-Australian, Male, 21 years old -- Sindy
 	* Fan of IU for 8 years
@@ -85,7 +85,7 @@ Doesn’t store videos in his local device.
 	* He does not go out of his way to check up on content on Instagram and Facebook. He sees it when it pops up on his feed or his occasional check.
 	* In Australia, he always buys the album on iTunes first and then later buys the physical album to support the artist but also for the poster.
 	* He uses an SD card and cloud to store photos but “never goes back through them”.  
-![img](https://drive.google.com/open?id=1RYwt85StjWeNYNlD_iNMehSlu5O3MOty)
+![img](https://github.com/daram529/CS374_HCI_pictures/blob/master/DP1/main_User_4-1.JPG)
 
 6. User 6: Korean, Male, Extreme, 25 year old -- Minkyu
 	* Fan of Lovelys since 2014
@@ -96,12 +96,12 @@ He watches/listens to all the reality shows and radios that Lovelys is on
 	* Physical product : has been to concert. Has experience with ticketing, but not enthusiastic; (lot of interaction @ DC)
 	* Maintaining : Saves photos with categorized folders)
 		* Categorizes by date / member.
-		* has problems trying to find right photos (wishes there were some tags. Ex. laughs / mistake)
+		* has problems trying to find right photos (wishes there were some tags. Ex. #laughing / #makingamistake)
 	* Keeps all of the physical goods on desk
 	* Buys at least 2 albums of the same to collect all the posters/poster cards
 	* Streams their songs overnight to help their music ranking!
 	* When lonely : watches clips because they’re cute.  
-![img](https://drive.google.com/open?id=1ktHqZb-6exSqW3JivXKjfziAZPabw66J)
+![img](https://github.com/daram529/CS374_HCI_pictures/blob/master/DP1/main_User6_DCGallery.jpeg)
 
 7. User 7: Korean, Female, Moderate, 23 year old -- Minkyu
 	* Fan of ZICO @ Block B since 2012
@@ -115,16 +115,16 @@ He watches/listens to all the reality shows and radios that Lovelys is on
 	* Interestingly, she doesn’t follow ZICO’s account. 	* Rather, she checks up ZICO’s account every time she opens instagram app
 	* She checks youtube periodically and search with query ‘ZICO’
 	* Went to hip hop concert twice  
-![img](https://drive.google.com/open?id=1mJTa3p04-rDzk0XBXKNukPhn9qm10pFN)
+![img](https://github.com/daram529/CS374_HCI_pictures/blob/master/DP1/main_User7_Instagram.jpeg)
 
 8. User 8, User 9, User 10 : Korean, Female, 15 year old -- Minkyu
 	* 30,000~150,000 wons to join official fan club / get goods/card tickets (live music banks)
 	* Hard to get signing ticket
 	* Wishes to have an app/web for searching/browsing all schedule
 	* Need signatures from parents to get fan club acceptance.(!)  
-![img](https://drive.google.com/open?id=1GbRsANMIIXEZl30S1XwQoH7WGzcXV9qC)
-![img](https://drive.google.com/open?id=1IYENw8JXZgxpLt_tyhTj5Bkf7jI0Hdra)
-![img](https://drive.google.com/open?id=1dKPrzg7mIVnQ4dw6hIQssZG_MkwJ49tS)
+![img](https://github.com/daram529/CS374_HCI_pictures/blob/master/DP1/main_User_5-4(8).JPG)
+![img](https://github.com/daram529/CS374_HCI_pictures/blob/master/DP1/main_User_1_video_collection(9).jpg)
+![img](https://github.com/daram529/CS374_HCI_pictures/blob/master/DP1/main_User_2_Phone_Alerts(10).jpg)
 	
 
 ## Needs
