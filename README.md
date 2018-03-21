@@ -9,6 +9,7 @@ Sindy Wu
 Minkyu Yun  
 
 ## Experience
+
 ####Redesign the expereience of kpop fangirling/fanboying
 
 **Target Users:** K-pop fans who have motivations to support or consume materials/media related to their kpop stars.
@@ -122,9 +123,6 @@ He watches/listens to all the reality shows and radios that Lovelys is on
 	* Hard to get signing ticket
 	* Wishes to have an app/web for searching/browsing all schedule
 	* Need signatures from parents to get fan club acceptance.(!)  
-![img](https://github.com/daram529/CS374_HCI_pictures/blob/master/DP1/main_User_5-4(8).JPG)
-![img](https://github.com/daram529/CS374_HCI_pictures/blob/master/DP1/main_User_1_video_collection(9).jpg)
-![img](https://github.com/daram529/CS374_HCI_pictures/blob/master/DP1/main_User_2_Phone_Alerts(10).jpg)
 	
 
 ## Needs
@@ -156,11 +154,14 @@ He watches/listens to all the reality shows and radios that Lovelys is on
 8. Doing an activity related to their favorite stars, even if it’s actual work, motivated them so much that they felt less tired.
 9. To be a fan club staff, it takes a lot of money, effort, and proof of loyalty : some monetary donation (30k ~ 150k wons), some thousand streamings on videos/music streaming services, buying goods, participation in community, etc)
 10. There is high accessibility barrier and vulgarity issues for novices, and learning of slangs, aliases may be difficult.
-11. Most of fans don’t go above and beyond; they consume the media for their own good.
+11. Most of fans don’t go above and beyond; they consume the media for their own good.  
+
 
 ##Studio Reflections
 
+
 ####Feedback from the studio session includes:
+
  
 **Students' comments**
 
@@ -173,7 +174,7 @@ He watches/listens to all the reality shows and radios that Lovelys is on
 
 
 
-**TTA’s comments**
+**TA’s comments**
 
 * Seems to focus only on digital space  
 **(reflection) →** Maintaining physical goods offline was mostly done by storing on desks, binders, cabinets, etc. We did address it in the presentation, but the users interviewed did not have striking problems or interesting insights in storing physical goods.
