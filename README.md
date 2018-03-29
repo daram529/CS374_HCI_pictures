@@ -162,9 +162,9 @@ Procedure : based on the criterion above, each team member voted for 5 ideas. We
 1. **Motivational messages(quotes) from celebrities, also sharing their similar stories of struggle**   
 ![storyboard_motivation](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/3306cd5f/DP2/storyboard_motivation.jpeg)  
 2. **Fans of different kpop group/stars having a competition using their test scores/academic efforts/transcripts/volunteer hours**    
-![storyboard_fanfight](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/f1bfb7ad/DP2/storyboard_fanfight.jpg)  
+![storyboard_fanfight](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/7a086625/DP2/storyboard_fanfight.jpg)  
 3. **Make it easier to combine kpop contents with self to do list/calendar/schedule**  
-![storyboard](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/3306cd5f/DP2/storyboard_motivation.jpeg)  
+![storyboard](???)  
 
 ## Studio Reflections
 
