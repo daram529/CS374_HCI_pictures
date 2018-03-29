@@ -164,7 +164,7 @@ Procedure : based on the criterion above, each team member voted for 5 ideas. We
 2. **Fans of different kpop group/stars having a competition using their test scores/academic efforts/transcripts/volunteer hours**    
 ![storyboard_fanfight](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/7a086625/DP2/storyboard_fanfight.jpg)  
 3. **Combine kpop stars’ schedules and contents with self to do list/calendar/schedule**  
-![storyboard](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/b5061482/DP2/storyboard_todo.jpeg)  
+![storyboard](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/420c97cc/DP2/storyboard_todo2.jpeg)  
 
 ## Studio Reflections
 
