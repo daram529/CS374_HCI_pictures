@@ -11,7 +11,7 @@ Minkyu Yun
 ## POV
 **User :** Korean kpop fangirls in high-school  
 **User’s need :** need to see encouraging and empathizing contents of their stars easily  
-**Surprising insight :** but stars’ contents of different personality are too scattered across and disorganized within platforms.
+**Surprising insight :** because of their stress and situation it’s easier for them to feel lonely
 
 ## Persona
 ![persona](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/3306cd5f/DP2/persona.jpg)  
@@ -23,7 +23,7 @@ Minkyu Yun
 
 **Preferences :**  
 
-* Her bias : Jungkook  
+* Her bias : Jungkook, Jimin  
 * Instagram : short, funny clips / Twitter, Youtube vlog / Youtube : full video clips 
 
 **Dislikes:**  
@@ -76,7 +76,7 @@ KPHFGs = k pop high school fan girls
 5. HMW help KPHFGs share their fangirl loves with their friends?
 6. HMW help KPHFGs get into fancafe more easily? 
 7. HMW alleviate KPHFGs’ stress from college admissions by fangirling? 
-8. HMW motivate KPHFGs keep focused and motivated in academics with fangirling?
+8. HMW redirect loneliness so that KPHFGs keep focused and motivated in academics with fangirling?
 9. HMW help KPHFGs have more fun during high school using stars’ contents? 
 10. HMW help KPHFGs help friend relationship(camaraderie) through fangirling?
 
@@ -95,13 +95,13 @@ Procedure : based on the criterion above, each team member voted for 5 ideas. We
 
 1. HMW help KPHFGs get the kpop contents they need at different times/emotions of the day?
 2. HMW alleviate KPHFGs’ stress from college admissions by fangirling? 
-3. HMW motivate KPHFGs keep focused and motivated in academics with fangirling?
+3. HMW redirect loneliness so that KPHFGs keep focused and motivated in academics with fangirling?
 
 
 ## Solutions
 
 
-1. **POV :** HMW help KPHFGs get the kpop contents they need at different times/emotions of the day?
+1. **HMW :** HMW help KPHFGs get the kpop contents they need at different times/emotions of the day?
 	1. Send users messages with new contents every morning and night
 	2. Let users be able to talk to their favorite Kpop stars personally
 	3. Provide the contents timed to student’s transit
@@ -109,13 +109,13 @@ Procedure : based on the criterion above, each team member voted for 5 ideas. We
 		* (Ex : When they are stressed, provide something wild, fun, crazy facts about their stars; when they are demotivated, show some stories of struggles, etc)
 	5. Have new short video clips ready that they can watch between classes
 	6. Build a platform where users can write diary using kpop contents
-	7. Make it easier to combine kpop contents with self to do list/calendar/schedule
+	7. Combine kpop stars’ schedules and contents with self to do list/calendar/schedule
 		- Star’s schedule? (ex : BTS sleeps @2am~6am, my lack of sleep is nothing!)
 	8. Provide a storage where they can store their own contents by emotions and can access anytime, anywhere
 	9. Make users be able to listen to favorite stars’ voice messages by emotional categories
 	10. KakaoTalk emoticons KPHFGs can use designed by stars or representative of them that are unlocked at certain times of the day
 
-2. **POV :** HMW alleviate KPHFGs’ stress from college admissions by fangirling? 
+2. **HMW :** HMW alleviate KPHFGs’ stress from college admissions by fangirling? 
 	1. Consider blood-type and provide the contents accordingly
 	2. Give a platform where fangirls can chit chat on the different themes of star
 	3. School based star platform where users can meet school friends online who have favorite stars in common
@@ -131,14 +131,14 @@ Procedure : based on the criterion above, each team member voted for 5 ideas. We
 		- ![img](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/dc23f5b6/DP2/motivation.png)
 	10. An application with quotes/snippets of lyrics from different kpop stars, you can swipe right/left. Based on this you can discover new kpop stars who speak to your mind / give you motivation! (different from 9 in that it is focused more on discovering new favorite stars)
 
-3. **POV :** HMW motivate KPHFGs keep focused and motivated in academics with fangirling?
+3. **HMW :** HMW redirect loneliness so that KPHFGs keep focused and motivated in academics with fangirling?
 	1. Fans of different kpop group/stars having a competition using their test scores/academic efforts/transcripts/volunteer hours
 	2. Arrange a fan meeting for students who have high scores on 수능
 	3. Have stars teach online education courses
 	4. Let users buy stars’ goods (like wallpaper screensavers) with their scores
 	5. Give a impression that they are studying with the stars by having video or image of stars studying in front of you on the screen
 	6. Fun academic (like quiz, etc) game where KPHFG goes against kpop star (ai)
-	7. Play certain song while studying certain subjects (like the psychology effect where for ex. You’re drunk when you’re studying so you remember better when you’re drunk for your test)
+	7. Play certain song while studying certain subjects 
 	8. Answer a hard question in each subject and unlock new/private/not disclosed info about the kpop star/preview of new songs/albums
 	9. Have kpop stars ask questions so that fangirls are willing to answer joyfully
 	10. If users don't use a phone or computer for a certain amount of time, give them kpop contents as a gift so that they can focus on studying
@@ -155,7 +155,7 @@ Procedure : based on the criterion above, each team member voted for 5 ideas. We
 
 1. **Motivational messages(quotes) from celebrities, also sharing their similar stories of struggle**  
 2. **Fans of different kpop group/stars having a competition using their test scores/academic efforts/transcripts/volunteer hours**  
-3. **Make it easier to combine kpop contents with self to do list/calendar/schedule**
+3. **Combine kpop stars’ schedules and contents with self to do list/calendar/schedule**
 	
 ## Storyboards
 
@@ -163,8 +163,8 @@ Procedure : based on the criterion above, each team member voted for 5 ideas. We
 ![storyboard_motivation](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/3306cd5f/DP2/storyboard_motivation.jpeg)  
 2. **Fans of different kpop group/stars having a competition using their test scores/academic efforts/transcripts/volunteer hours**    
 ![storyboard_fanfight](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/7a086625/DP2/storyboard_fanfight.jpg)  
-3. **Make it easier to combine kpop contents with self to do list/calendar/schedule**  
-![storyboard](???)  
+3. **Combine kpop stars’ schedules and contents with self to do list/calendar/schedule**  
+![storyboard](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/b5061482/DP2/storyboard_todo.jpeg)  
 
 ## Studio Reflections
 
