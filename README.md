@@ -179,13 +179,6 @@ Procedure : based on the criterion above, each team member voted for 5 ideas. We
 * Wish less words and  emphasizes(maybe in bold) on important parts on the slides  
 **(TA's suggestion) →** don't spend too much time on making slides
 
-TA
-wish some stretch between CS and our group 
-stretch in distance between target user and group 
-
-
-(ex : jumma fans)
-
 **TA’s comments**
 
 * Wish there were some distance between target user (Korean Female Fangirl in College) and our group members
