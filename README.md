@@ -8,13 +8,13 @@ Hyunjong Lee
 Sindy Wu  
 Minkyu Yun  
 
-## POV (done)
+## POV  
 
 **User :** Korean 고3 kpop fans in high-school  
 **User’s need :** need to see encouraging and empathizing contents of their stars easily  
 **Surprising insight :** Because of their pressuring situation, it’s easier for them to feel stressed and uncertain.
 
-**Updates :** Target user is changed from high school fangirls to 고3 kpop fans including both fangirls and fanboys because we thought there's not much difference of needs between the groups as we thought in earlier stages. However, we thought 고3 differed from other high schoolers due to the pressure they receive that year, so we decided to focus on them. We also omitted “emotionally empathize”, as user’s need, as users don’t necessarily want to consume videos with their exact emotional status, but complementing their emotional status.
+**Updates :** Target user is changed from high school fangirls to 고3 kpop fans including both fangirls and fanboys because we thought there's not much difference of needs between the groups as we thought in earlier stages. However, we thought 고3 differed from other high schoolers due to the pressure they receive that year, so we decided to focus on them. We also omitted “emotionally empathize”, as user’s need, as users don’t necessarily want to consume videos with their exact emotional status, but complementing their emotional status.  
  
 
 ## Tasks  
@@ -31,7 +31,22 @@ Sensitize - As a high school student you must study a lot. Have you ever had tho
 ## Prototype 
 
 * **Prototype Link :** [Invision Link](https://invis.io/GFHMVSIATDZ)
-* **Prototyping tool :** Invision, Sketch
+* **Prototyping tool :**  
+	* **Invision :**  
+		* Pros
+			* We could easily link different pages from designated hotspots.
+			* We could generalize a layer over the whole category span.
+			* We could save the screens in separate categories so to prevent clustering layers of different categories
+		* Cons
+			* On mobile, “swipe” means go to the next invision screen. There was no “test mode” in mobile, so it was not intuitive for the users to test the Invision prototype on mobile. 
+Also no typing was allowed for our contents generation.
+	* **Sketch :**  
+		* Pros
+			* It was lighter than Illustrator, and was designated for fast creation of digital interfaces
+		* Cons
+			* Organizing layers was difficult, as is the natural problem of Sketch.
+			* Handling SVG files sometimes was tricky, as is the critical flaw of Sketch.
+
 * **Design choices :**  
 	* **Video format is not supported by Invision, the prototype we are specifically required to use. <span style=”color:red”>So we replaced videos by external youtube videos on the laptop via Wizard of Oz.</span>.**
 	* **Video navigation :** we chose not to implement this function because video is not supported by Invision and it is not the essential feature for completing the tasks.
@@ -55,7 +70,7 @@ Emotional filter
 
 **Task 2 (View and upvote comment jjals on the video):**  
 
-![2](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/f2982de7/DP4/Task_1_Emotional_Filter.png)  
+![2](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/0ce3fca7/DP4/Task_2_jjal.png)  
 Jjal  
 
 **Task 3 (Create your own jjal):**  
