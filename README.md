@@ -1,4 +1,4 @@
-# Sung Duck: Redesigning the experience of kpop fangirling
+# BZDuck: Redesigning the experience of kpop fangirling/fanboying 
 
 #### Team Name: Self-explanatory
 
@@ -10,149 +10,151 @@ Minkyu Yun
 
 ## POV  
 
-**User :** Korean 고3 kpop fans in high-school  
-**User’s need :** need to see encouraging and empathizing contents of their stars easily  
-**Surprising insight :** Because of their pressuring situation, it’s easier for them to feel stressed and uncertain.
+**User :** Korean Kpop newbie and intermediate fans who don’t have enough time or information about where to find idol contents
+**User’s need :** Need refreshing contents of their favorite stars at the right time without spending too much time searching  
+**User’s insight :** Because watching contents complementing their emotions make them feel better and energized.  
 
-**Updates :** Target user is changed from high school fangirls to 고3 kpop fans including both fangirls and fanboys because we thought there's not much difference of needs between the groups as we thought in earlier stages. However, we thought 고3 differed from other high schoolers due to the pressure they receive that year, so we decided to focus on them. We also omitted “emotionally empathize”, as user’s need, as users don’t necessarily want to consume videos with their exact emotional status, but complementing their emotional status.  
- 
+**Updates :**  As we looked back upon our interviews and had many discussions, we realized that the rapid shift into “Ko3 high school students” in DP3 to avoid common characteristics between our target user and ourselves was detrimental. Not only was the change of perspective forced, but it diverted us from the initial point we wanted to make : changing the experience of fangirling/fanboying, and focused excessively on combining these two specific groups. Looking back at the interviews and with more discussion, we found out that the pain points of Ko3 fans we elicited were not limited to Ko3’s only, but a core need of fans who are busy and don’t have enough time for scavenging contents. In fan culture, we saw that there was an evident,  gap between newbie fans (who don’t have enough time or information to scavenge for contents) and extreme fans (who would spend hours on scavenging for star contents). We want to target the newbie and intermediary fan who don’t have enough time or information about where to find new idol content, but nonetheless gain emotional benefit from consuming these contents.  
+
+
+## Target users  
+
+Korean Kpop newbie and intermediate fans who don’t have enough time or information about where to find idol contents  
 
 ## Tasks  
 
-Sensitize - As a high school student you must study a lot. Have you ever had those times where you broke down or the stress and pressure was too much? You wished you had somebody to comfort you. 
+1. Find and interact with content that pertains to your emotional state as "너무 좋아! 지구뿌셔!!" without specific queries (save, filter by emotion, swipe through)
 
-1. You just were in that situation. You have been studying for hours. It’s starting to make you tired, but you need to go into college. That thought just permeates your brain. You just want somebody to tell you it’s ok, to comfort you. You remember that listening to your favorite kpop stars’ songs always cheered you up because of the various lyrics and behind stories of the stars. You first **choose your emotional state as “위로받고 싶어요".** Then you want to **look for content (video)** so that your kpop star can comfort and make you feel better. You find the first tzuyu video to be the best.
+2. Go to "jjal" at your favorite video and look through all the comments. Find the best comment and show it by either liking or downloading it
 
-2.  After seeing the video, you feel better, and you are curious about what other 고3 are feeling and what they think about the video. So you decide to **look through the comments/posts.** One of them really sparks you, **and you would like others to see it as well. (upvote)**
-
-3. After looking through the comments/posts, **you are inspired to make your own** and begin to go through the video again. You want to capture the moment at the 1:49 mark because you think tzuyu looks the most beautiful at that moment.  You think that writing “힘내요” with tzuyu screenshot would help other 고3 in the same situation. 
+3. Create a jjal comment for a video that best complemented your emotion that you want to share
 
 
-## Prototype 
+## Implementation Notes  
 
-* **Prototype Link :** [Invision Link](https://invis.io/GFHMVSIATDZ)
-* **Prototyping tool :**  
-	* **Invision :**  
-		* Pros
-			* We could easily link different pages from designated hotspots.
-			* We could generalize a layer over the whole category span.
-			* We could save the screens in separate categories so to prevent clustering layers of different categories
-		* Cons
-			* On mobile, “swipe” means go to the next invision screen. There was no “test mode” in mobile, so it was not intuitive for the users to test the Invision prototype on mobile. 
-Also no typing was allowed for our contents generation.
-	* **Sketch :**  
-		* Pros
-			* It was lighter than Illustrator, and was designated for fast creation of digital interfaces
-		* Cons
-			* Organizing layers was difficult, as is the natural problem of Sketch.
-			* Handling SVG files sometimes was tricky, as is the critical flaw of Sketch.
+[https://bzduck.github.io](https://bzduck.github.io)  
+Please test on mobile device : Galaxy 7, 8 and 9 (excluding iPhone). Make sure that your wifi bandwidth is sufficient, as the platform handles video. Please use chrome when testing the web application.  
 
-* **Design choices :**  
-	* **Video format is not supported by Invision, the prototype we are specifically required to use. <span style=”color:red”>So we replaced videos by external youtube videos on the laptop via Wizard of Oz.</span>.**
-	* **Video navigation :** we chose not to implement this function because video is not supported by Invision and it is not the essential feature for completing the tasks.
-	* **Profile - selecting favorite stars and browsing through saved collection :** we chose not to implement this function/interface because it is not required function to complete any of our tasks.
-	* **Video loading page :** we chose not to implement this interface because video is not supported by Invision and there's no need at this stage where there's no video loading time.
-	* **Emotional Navigation :** we chose to only implement the emotional navigation on the very first slide because only the first task required it and we only had content for one specific phrase.
-	* **Sign Up/Sign In :** we chose not to implement signing up and signing in as it was not necessary to complete tasks
-	* **Overlay :** we chose minimalistic icons with descriptions, so to minimize the system’s interruption in user’s viewing activity. We thought that a choice of empty icons with white border clearly stood against most videos (dark stage), and yet was empty enough to minimize interference.
-	* **Emotional filter via color bar :** we chose a navigation via color bar, because color is one of the categories most intuitively associated with emotions. We mostly referenced the Color theory for emotion.  
+**URL of your Git repository :** [https://github.com/bzduck/bzduck.github.io](https://github.com/bzduck/bzduck.github.io)  
+  
+**Libraries and frameworks :**  
 
-* **Representative screenshots :**
+	* fontawesome 
+	* bootstrap
+	* jquery 
+	* easytimer.min.js
+	* firebase database & storage
+	* github version control
+	* github pages
 
+
+**Representative screenshots :** 
+
+**Sign up:** 
+
+![1_1](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/signup.png)
+![1_2](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/login.png)
 **Task 1 (View and filter the videos via the emotional filter):**  
-![1_1](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/f2982de7/DP4/Task_1_default_screen.png)  
 Default screen with overlay  
 
+![4](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/emotionfilter.png)
+![5](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/onboarding.png )
 
-![1_2](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/f2982de7/DP4/Task_1_Emotional_Filter.png)  
-Emotional filter
+Emotional filter and onboarding
 
 
 **Task 2 (View and upvote comment jjals on the video):**  
 
-![2](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/0ce3fca7/DP4/Task_2_jjal.png)  
+![6](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/jjal.png)
 Jjal  
 
 **Task 3 (Create your own jjal):**  
 
-![3](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/f2982de7/DP4/Task_3_add_text.png)  
+![7](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/1b70c115/DP6/create_2.png)
 Add text  
 
 Additional screenshots    
-![4](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/f2982de7/DP4/Task_others_starred_videos.png)  
-Starred videos gallary  
 
+
+![profile](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/profile.png)
+Starred videos gallary
+
+
+## Individual Reflections 
+
+### Jiyoun Ha  
+
+**Contribution**  
+
+At the beginning, I made the profile html template. Then I made the design guidelines for all screens of our interface, including the fine details of margin, alignment, and padding. Later, I made the top navigation bar throughout all the pages and the emotional filter bar, and respective functions. I also made the designs for login, profile, emotional filter, home, and some of the comments. For the design assets, I created the onboarding, logo, and most icons. I tested on mobile for consistency of designs and functions, and edited video view algorithm in accordance to our framed perspective. Lastly, I made the phrase for emotional filter and logo catchphrase.
+
+**The difficulties**  
+Mobile compatibility : I found it difficult to maintain the intended design when viewed from a mobile device, though the device view tool from developer mode of chrome had no problems. It seemed that it was a more difficult feat to maintain the expected design in mobile devices than in desktop, due to variability of the devices. Consequently, to maintain intended designs throughout different devices we had to disregard some of the fine-tuned design guidelines and constantly check from the device by pushing to the repository and editing on the go. Additionally, most of the margins and icon/text sizes were replaced in screen-size adjustable units, such as “em”’s and %’s.  
+Iframe : There were some difficulties when implementing the top navigation and emotional filter bars due to iframe characteristics. I had to work with it a lot to get my intended div in tact while performing the intended function. 
+Importing libraries without collision : As some of the UI components (buttons, icons, etc) were exported from external libraries, there had to be some fine tuning to use these without collisions.
+
+
+**Useful Implementation skill**  
+HTML / CSS : I learned to maintain an expectable design in mobile frames of different sizes. It also made me realize that it is more difficult to make a functional yet aesthetic design in mobile, due to limitation in size and lack of possible effects and information scavenging (ex : hovering is not possible on mobile). I also realized that keeping the design consistent on mobile is a difficult feat than it looks, as told by many obscure answers in stackoverflow. Throughout this process, I learned more ways in keeping internal consistency in design to make a mobile platform look presentable and trustable. 
+I learned that though core functions and skeleton are the pillars of our platform, how they are phrased, presented, and instructed (ex: onboarding) can greatly change our perspective. Experimenting with many versions made me learn more on tying our platform more to the intended perspective. 
+
+
+### Hyunjong Lee  
+
+**Contribution**  
+* At the start, I made the comments.html template, worked on how to connect the main page and the iframe comments page and designed how firebase saved comments so that we can pick up the data easily. Later, after we implemented basic functionalities, I got to work on anything that comes into our TODO queue. Still, I mostly worked on parts that needed communications between components, such as passing values so that iframes could display the right content. 
+
+**The difficulties**  
+1. I had hard time implementing how iframe should be closed with a button. As I had less experience with JS, it was not a very intuitive task. Inside the iframe, I couldn’t reach out to remove the whole iframe, so I had to make a button that has a larger z-index than the iframe and integrated like a nav inside the iframe.  
+2. I had hard time connecting the github pages with a file server we planned to have. We later found out that firebase storage works well with https and decided to move our files to firebase.
+
+
+**Useful Implementation skill**  
+I picked up lots of html and JS implementation skills. I had to handle js code that manipulates the DOM and it really helped me understand how JS syntax, callbacks and DOMs work. Especially from adding event listeners to buttons and designing interactions was where I learned the most.  
+Also I learned how to deploy a simple service through github pages with firebase so that you can actually store and authenticate user information. It is easy to create and deploy.
+
+
+### Sindy Wu  
+
+**Contribution**  
+
+* I contributed in creating the css layout and design in general and the html/css template for sign in/sign up and for when the users create their own jjals. I also contributed to the textbox implementation in creating a jjal when we first split the pages between us. Afterwards, I worked on providing feedback for sharing and text editing, having the nav go away when the user clicks outside, and implementing the buttons for comments and creating a jjal.
+
+**The difficulties**  
+
+1. **Android keyboard pop up :**
+	* One of the difficulties I faced was trying to figure out how to get the Android keyboard from pushing all the elements up. It was hard to test because it had to be done by phone since there was no keyboard pop up on the computer. Also I didn't know if the changes were actually being reflected even after I pushed to Github. 
+			
+2. **css positioning/layout (center vertical align) :**  
+	* It was also sometimes somewhat difficult to position elements inline or on top of each other and center elements vertically. Mainly after trial and error, it was doable. To vertically align in the center was more difficult and harder to figure out since it had to be displayed in table form with a parent div.
 	
-* * **Instructions :**  
-	* As our project is intended to work on smartphones, we implemented on the smartphone interface. Therefore, you are supposed to go to the prototype link, send it to SMS ("SMS to Mobile" on the top right corner) and **access the prototype on your smartphone**.  
-	* Because Invision doesn’t support videos, we conducted the user testing with the Wizard of Oz method. The user had both a phone and laptop in front of them. The wizard stood diagonally behind the user, and reenacted the playing and pausing of the videos that the user had in our prototype in phone using the laptop to show the videos. Therefore, the ‘play’ and ‘stop’ doesn’t actually do anything to the picture.  
-	* Although we intended users could browse through videos using swipe, swipe will lead to the next screen (Invisionnative problem ), not the screen we intended. Therefore, we told users not to use swipe at all. The first screen should be 12, and the emotional should first be changed to “누군가에게 위로 받고 싶어요” before browsing through content. 
+3. **drag and text edit**  
+	* Another difficulty was implementing a draggable, editable, and resizable text box in mobile, which ended up not being implemented in the end. However, when I was working on it, the plugins I tried didn't work and figuring how to code the difference between dragging and click was difficult. At first, whenever somebody pressed down on the textbox, the text box was only draggable and not editable. It was hard doing the balance of the two, particularly the clicking areas, without even attempting resize.
 
+**Useful Implementation skill**  
 
-## Observations  
-  
-* **Task 1: Change the emotion and consume according videos**  
+* One useful implementation skill was definitely learning how to implement drag and text editing at the same time in mobile. Even though it wasn't implemented, it was good experience. The equivalent touch event listeners were connected to the mouse ones. I realized how to do the drag by using duration and movement as key factors and then using a handle since it was still finicky with touch on mobile. After touchstart, if touchend was called without any movement, it would be a click to edit text. However, if touchmove was called before touch end, it would be a drag. This helped me understand input, output, and structure a lot better. 
 
-	1. They easily found where the emotion filter is and tapped it to change to another emotion - P1, P2, P3 / [Learnability]  
+### Minkyu Yun  
+
+**Contribution**  
+    
+* At first, we divided the UIs into 1) main video and navigation(overlay) 2) creating jjals and sharing 3) consuming(viewing) jjals and 4) profile and watching starred videos. As we decided on the most of the design choices together before starting implementing, each member just implemented the design into web app. **I took the first one: full screen main video and overlay navigation that controls video as well as links to another functions. Also, while refactoring creating jjal UI, I had to make most of the modifications: canvas, text input, etc.** However, later on we didn’t stick to the only part that we were assigned. Rather, every member implemented any functionalities that are important at the moment. I mainly dealt with javascript: navigating through videos, starring & unstaring, sign in & sign up, sending/receiving data(user authentication, videos, jjals, starred videos, favorite idols, etc.) to/from firebase.
+    
+**The difficulties**  
+
+1. **requesting videos with server :**
+	* At first, because firebase has small amount of bandwidth, we decided to use server to request video from. However, the problems we faced were https. Since github io pages were in https, they could only request from https servers, so we had to make ours as https as well. We could eventually make our server into https, but only in self signed, alerting users than our GitHub io page is insecure. We could simply host our web as well as videos on our server, but since instruction was to limit the usage of server as much as possible, we gave up everything we’ve done and moved all the data to firebase database and storage.
+			
+2. **creating a jjal from video: taking screenshot from a video and writing text on it**  
+	* We had to make a canvas, input current frame of the video, and embed whatever a user types into the canvas, then encode the canvas into base64. There are settings needed to be done at server side in order to make a image from a screenshot of video, and embedding text into the image at the right size and right place were challenging.
 	
-	2. They understood what the colors of emotion filters were easily navigated to the target feelings.  (ex : When asked to search for an “anger” emotion, they immediately navigated to the red color bar. ) - **P1, P2, P3. / [Learnability]**. There was only one emotion they thought it didn’t match the color. (“boastful” and green) - **P2 / [Learnability, Efficiency] / Low** 
-	**Solution :** we will reference the “color theory” for emotions chart, which is most in line with user’s intuitions.
+3. **mobile web keyboard problem**  
+	* Because we are implementing mobile web, it was very difficult to debug and test it on our device. Since we are using GitHub io, every time we want to test our code, we have to merge, push, and wait until the GitHub io is updated (it is updated very slowly due to the caches). However, bigger problem was with the keyboard. Unlike on the computer, when user inputs text/numbers on mobile, keyboard pops up and sometimes hides the input or resizes the screen.
+
+**Useful Implementation skill**  
 	
-	3. They could use the tapping left/right to browse after tapping several places. They could easily go back to previous video by tapping the opposite direction. - **P1, P2, P3 / [Learnability, Safety]**  
-	
-	4. Users could easily browse through different videos as they tried tapping the screen several times. - **P1, P2, P3 /  [Learnability]**  
- 
-	5. Users couldn’t match the icons with their functionalities (They thought the stop button was for exiting the application, as was with some galaxy devices without buttons. ) - **P2, P3 / [Learnability] / Medium**  
-	**Solution:** we will change the icons to their matching functionalities.(pause and memes)
- 
-
-* **Task 2: Consume jjals(memes) made by others**  
-
-	1. Users easily browsed through the jjals (memes) by swiping up or down, just like what they would do in Facebook. - **P1, P2, P3 / [Learnability]**  
-
-	2. Users easily found the functional buttons (After finding upvote buttons, they saw the feedback (the total upvotes were increased.) They also download with ease). - **P1, P2, P3 / [Learnability]**
-
-	3. Comments(jjals) icon didn’t match with its functionality. Most thought that it was an icon for “chatting” . - **P1, P2, P3 / [Learnability] / High**  
-	**Solution:** Change the icon into relevant icon that better indicates “comments”, and not “chatting”. 
-
-	4. Jjals didn’t match currently selected emotional filter, because they’re one depth deeper than the videos that were filtered. - P2 / [Learnability] / Low  
-	**Solution:** Because comments on post results from search results are not always necessarily to related to search query, this problem does not need critical system-related addressing. Instead, we will make ‘comments’ more evident so that users understand user-created comments on posts are able to have more aried voices. 
-
-* **Task 3: Make your own jjal**  
-
-	1. It took time to understand that the keyboard is not a real keyboard. After that, they quickly followed the steps. - P1, P2, P3 /  [Learnability] / Low  
-	**Solution:** It would automatically solved when moving on to next prototype out of invision
-	 
-	2. Couldn’t easily realize that jjal can be only made at paused mode - P1, P2, P3 / [Efficiency] /  Low  
-	**Solution:** Implement an overlay that says “Capture this to make a jjal” or some similar action keyword to indicate that more action for creating content can be completed from ‘capturing’ the video, or show instructions for creating a content only when the video is paused. 
-
-	3. Regarded ‘공유하기' at the final stage as sharing on different platforms, rather than positing. - P2 / [Learnability] / Low  
-	**Solution:** Rephrase ‘공유하기’ or give a good context to let them understand that it is not yet posted.
-
-
-
-## Paper vs Digital  
-
-* **Usability issues :**
-	1. It is more native to try a prototype in a smartphone than in a paper prototype.
-		* Participants are less timid to try various actions in a digital prototype. They swipe, tap, and do many actions that they typically engage in.
-		* Hotspots are visible (in the Invision Prototype) when participants click once, and therefore next actions are better directed.
-		* As expected, users have higher expectations for digital prototypes (as they compare the app with their other apps, testing external consistency more rigorously) as opposed to paper prototypes (a medium/method they’re not familiar with)
-
-	2. It is much easier to control the paper prototype, as we suffered many constraints from the Invision prototype (ex : no swiping, no keyboard typing, specific rules in overlays, etc)
-
-* **Participants' reaction and expectation to prototype :**
-	1. Participants were more active on digital prototype as expected. For paper prototype, participants were more delicate and unwilling to click any button before they know its functionality. However, for digital prototype, all of the participants explored the prototype more actively to complete the tasks. For example, they clicked every button / section of the screen to see what happens.
-	
-	2. However, on invision, as participants could figure out the working functionality displayed as blue area. Therefore, after they explored the prototype for a while, they could easily figure out what to click.
-
-	3. Participants had generally higher expectation on a the digital prototype, as they had the same standards as the actual apps, and gave us feedbacks more harshly. For examples, participant 3 gave us a comment that video navigation bar should be placed above the navigation buttons (fast forward/backward, pause) while no one gave us feedbacks about each icon/button’s positions. Participants were also more sensitive to each wording. For example, some participants pointed out that ‘Collection’ doesn’t match with starred videos on a full screen view, whereas gallery-like view does suffice the nomer.
-
-* **Changes we made to digital prototype :**
-	
-	1. We changed the contents of our prototype from ‘quotes with static photos’ to videos with ‘jjals from the videos with texts’ as comments. The change was made due to the fact that fangirls consume videos more often and relieve stress from watching the videos. As we changed the contents, there were less differences between fangirls and fanboys, so we decided to include fanboys as our target users.
-
-	2. We implemented paper prototype in web, but realized that high school students use their (no-SIM) smartphones more often at home than desktops when surfing the web. Therefore, we changed the entire interface to fit into smartphone.
+* For the difficulty 3, mobile web keyboard problem, I solved it by keeping track of device size. For our sign in / sign up page, when user clicks input box, keyboard popped up and user couldn’t see what they’re writing. Therefore, I monitored the summation of window height and window width. Since when keyboard pops up, window height changes while width stays the same, I added a class to elements that need to move up so that users can see the input boxes.
 		
 		
 ## Studio Reflections  
@@ -163,26 +165,15 @@ Starred videos gallary
  
 **Students' comments**
 
-* Liked the idea of using tinder, didn’t think that emotion part was good but seems good now on
-mobile app.
-* Liked the emotion part. How does the user know which swipe is like/pass?  
-**(reflection) →** We have changed our concept and not using swipe to like/pass anymore. The swipe is to go forward/backward, which is external consistent with other apps.
+*  "Would a first time user get to select their favorite star?"  
+**(answer) →** Yes, you can do it in the signup. But for today's demo we aimed to show 3 tasks we had defined
+
 
 **TA’s comments**
 
-* Liked how you selected the lessons from prototype
-* Text(both when creating/reading) should be readable while not covering the stars’ face.  
-**(reflection) →** Text will be in reasonable size
+* Previously, I didn’t understand what you were trying to make, but now I understand what you‘re saying
+* This prototype is for sharing content, but it should need more affordance for the functions it provide.  
+**(reflection) →** We would provide visual guides, onboarding, top navigation (to state where in the application we are), and visual change of state with feedback (ex : before/after sharing or liking has different icon and/or feedback) to let them know what kind of functions we provide.  
 
-
-
-## Class Heuristic Evaluation Reflection
-
-* User was confused about the lack of introduction at the main page / some feedback to introduce he service  - **Heuristic / [Aesthetic & minimalist design] / Major**  
-**Solution:** We will have more clear and intuitive buttons, and feedback overlays (ex: “fast forwarded 3 seconds” in addition to the clear execution of action)
-
-* User was confused about the state of the service (ex: where they were page-wise) - **Heuristic / [Aesthetic & minimalist design] / Major**  
-**Solution:** we will change the icons to their matching functionalities.(pause and memes)
-
-* User was confused about the meaning of each buttons. - **Heuristic / [Help & Documentation] / Major**  
-**Solution:** This is a similar comment as from our actual tested users. We will minimize user confusion with buttons by refining buttons that were addressed in our user interview observations. 
+* Would a normal teenager who like the prototype fully understand the affordances? For example, the swipe gesture might be hard to figure out.  
+**(reflection) →** In addition to providing a visual onboarding for first time users, we also have made sure that none of our feature is too different from external consistencies of what our users would use. (ex : swiping is no longer for like / dislike, but for “new” / “undo”). Additionally, we would test it later next week
