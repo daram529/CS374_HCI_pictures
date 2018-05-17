@@ -14,7 +14,7 @@ Minkyu Yun
 **User’s need :** Need refreshing contents of their favorite stars at the right time without spending too much time searching  
 **User’s insight :** Because watching contents complementing their emotions make them feel better and energized.  
 
-**Updates :**  As we looked back upon our interviews and had many discussions, we realized that the rapid shift into “Ko3 high school students” in DP3 to avoid common characteristics between our target user and ourselves was detrimental. Not only was the change of perspective forced, but it diverted us from the initial point we wanted to make : changing the experience of fangirling/fanboying, and focused excessively on combining these two specific groups. Looking back at the interviews and with more discussion, we found out that the pain points of Ko3 fans we elicited were not limited to Ko3’s only, but a core need of fans who are busy and don’t have enough time for scavenging contents. In fan culture, we saw that there was an evident,  gap between newbie fans (who don’t have enough time or information to scavenge for contents) and extreme fans (who would spend hours on scavenging for star contents). We want to target the newbie and intermediary fan who don’t have enough time or information about where to find new idol content, but nonetheless gain emotional benefit from consuming these contents.  
+**Updates :**  As we looked back upon our interviews and had many discussions, we realized that the rapid shift into “Ko3 high school students” in DP3 to avoid common characteristics between our target user and ourselves was detrimental. Not only was the change of perspective forced, but it diverted us from the initial point we wanted to make : changing the experience of fangirling/fanboying, and focused excessively on combining these two specific groups. Looking back at the interviews and with more discussion, **we found out that the pain points of Ko3 fans we elicited were not limited to Ko3’s only, but a core need of fans who are busy and don’t have enough time for scavenging contents.** In fan culture, we saw that there was an evident,  gap between newbie fans (who don’t have enough time or information to scavenge for contents) and extreme fans (who would spend hours on scavenging for star contents). We want to target the newbie and intermediary fan who don’t have enough time or information about where to find new idol content, but nonetheless gain emotional benefit from consuming these contents.  
 
 
 ## Target users  
@@ -23,9 +23,11 @@ Korean Kpop newbie and intermediate fans who don’t have enough time or informa
 
 ## Tasks  
 
-1. Find and interact with content that pertains to your emotional state as "너무 좋아! 지구뿌셔!!" without specific queries (save, filter by emotion, swipe through)
+(0. Sign up with BTS as your favorite idol group)  
 
-2. Go to "jjal" at your favorite video and look through all the comments. Find the best comment and show it by either liking or downloading it
+1. Interact and filter for content that pertains to your emotional state, which is  "너무 좋아! 지구뿌셔!!". (save, filter by emotion, swipe through)  
+
+2. Go to "jjal" at your favorite video and look through all the comments. Find your favorite comment and show it by either liking or downloading it  
 
 3. Create a jjal comment for a video that best complemented your emotion that you want to share
 
@@ -53,13 +55,12 @@ Please test on mobile device : Galaxy 7, 8 and 9 (excluding iPhone). Make sure t
 **Sign up:** 
 
 ![1_1](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/signup.png)
-![1_2](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/login.png)
+![1_2](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/login.png)  
+
 **Task 1 (View and filter the videos via the emotional filter):**  
-Default screen with overlay  
 
 ![4](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/emotionfilter.png)
 ![5](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/onboarding.png )
-
 Emotional filter and onboarding
 
 
@@ -73,8 +74,8 @@ Jjal
 ![7](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/1b70c115/DP6/create_2.png)
 Add text  
 
-Additional screenshots    
 
+**Additional screenshots**    
 
 ![profile](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/profile.png)
 Starred videos gallary
