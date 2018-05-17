@@ -92,32 +92,38 @@ Starred videos gallary
 
 **Contribution**  
 
-At the beginning, I made the profile html template. Then I made the design guidelines for all screens of our interface, including the fine details of margin, alignment, and padding. Later, I made the top navigation bar throughout all the pages and the emotional filter bar, and respective functions. I also made the designs for login, profile, emotional filter, home, and some of the comments. For the design assets, I created the onboarding, logo, and most icons. I tested on mobile for consistency of designs and functions, and edited video view algorithm in accordance to our framed perspective. Lastly, I made the phrase for emotional filter and logo catchphrase.
+* At the beginning, I made the profile html template. Then I made the design guidelines for all screens of our interface, including the fine details of margin, alignment, and padding. Later, I made the top navigation bar throughout all the pages and the emotional filter bar, and respective functions. I also made the designs for login, profile, emotional filter, home, and some of the comments. For the design assets, I created the onboarding, logo, and most icons. I tested on mobile for consistency of designs and functions, and edited video view algorithm in accordance to our framed perspective. Lastly, I made the phrase for emotional filter and logo catchphrase.
 
 **The difficulties**  
-Mobile compatibility : I found it difficult to maintain the intended design when viewed from a mobile device, though the device view tool from developer mode of chrome had no problems. It seemed that it was a more difficult feat to maintain the expected design in mobile devices than in desktop, due to variability of the devices. Consequently, to maintain intended designs throughout different devices we had to disregard some of the fine-tuned design guidelines and constantly check from the device by pushing to the repository and editing on the go. Additionally, most of the margins and icon/text sizes were replaced in screen-size adjustable units, such as “em”’s and %’s.  
+
+* Mobile compatibility : I found it difficult to maintain the intended design when viewed from a mobile device, though the device view tool from developer mode of chrome had no problems. It seemed that it was a more difficult feat to maintain the expected design in mobile devices than in desktop, due to variability of the devices. Consequently, to maintain intended designs throughout different devices we had to disregard some of the fine-tuned design guidelines and constantly check from the device by pushing to the repository and editing on the go. Additionally, most of the margins and icon/text sizes were replaced in screen-size adjustable units, such as “em”’s and %’s.  
 Iframe : There were some difficulties when implementing the top navigation and emotional filter bars due to iframe characteristics. I had to work with it a lot to get my intended div in tact while performing the intended function. 
 Importing libraries without collision : As some of the UI components (buttons, icons, etc) were exported from external libraries, there had to be some fine tuning to use these without collisions.
 
 
 **Useful Implementation skill**  
-HTML / CSS : I learned to maintain an expectable design in mobile frames of different sizes. It also made me realize that it is more difficult to make a functional yet aesthetic design in mobile, due to limitation in size and lack of possible effects and information scavenging (ex : hovering is not possible on mobile). I also realized that keeping the design consistent on mobile is a difficult feat than it looks, as told by many obscure answers in stackoverflow. Throughout this process, I learned more ways in keeping internal consistency in design to make a mobile platform look presentable and trustable. 
+
+* HTML / CSS : I learned to maintain an expectable design in mobile frames of different sizes. It also made me realize that it is more difficult to make a functional yet aesthetic design in mobile, due to limitation in size and lack of possible effects and information scavenging (ex : hovering is not possible on mobile). I also realized that keeping the design consistent on mobile is a difficult feat than it looks, as told by many obscure answers in stackoverflow. Throughout this process, I learned more ways in keeping internal consistency in design to make a mobile platform look presentable and trustable. 
 I learned that though core functions and skeleton are the pillars of our platform, how they are phrased, presented, and instructed (ex: onboarding) can greatly change our perspective. Experimenting with many versions made me learn more on tying our platform more to the intended perspective. 
 
 
 ### Hyunjong Lee  
 
 **Contribution**  
+
 * At the start, I made the comments.html template, worked on how to connect the main page and the iframe comments page and designed how firebase saved comments so that we can pick up the data easily. Later, after we implemented basic functionalities, I got to work on anything that comes into our TODO queue. Still, I mostly worked on parts that needed communications between components, such as passing values so that iframes could display the right content. 
 
 **The difficulties**  
+
 1. I had hard time implementing how iframe should be closed with a button. As I had less experience with JS, it was not a very intuitive task. Inside the iframe, I couldn’t reach out to remove the whole iframe, so I had to make a button that has a larger z-index than the iframe and integrated like a nav inside the iframe.  
+
 2. I had hard time connecting the github pages with a file server we planned to have. We later found out that firebase storage works well with https and decided to move our files to firebase.
 
 
 **Useful Implementation skill**  
-I picked up lots of html and JS implementation skills. I had to handle js code that manipulates the DOM and it really helped me understand how JS syntax, callbacks and DOMs work. Especially from adding event listeners to buttons and designing interactions was where I learned the most.  
-Also I learned how to deploy a simple service through github pages with firebase so that you can actually store and authenticate user information. It is easy to create and deploy.
+
+* I picked up lots of html and JS implementation skills. I had to handle js code that manipulates the DOM and it really helped me understand how JS syntax, callbacks and DOMs work. Especially from adding event listeners to buttons and designing interactions was where I learned the most.  
+* Also I learned how to deploy a simple service through github pages with firebase so that you can actually store and authenticate user information. It is easy to create and deploy.
 
 
 ### Sindy Wu  
