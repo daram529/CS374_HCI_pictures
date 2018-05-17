@@ -10,7 +10,7 @@ Minkyu Yun
 
 ## POV  
 
-**User :** Korean Kpop newbie and intermediate fans who don’t have enough time or information about where to find idol contents
+**User :** Korean Kpop newbie and intermediate fans who don’t have enough time or information about where to find idol contents  
 **User’s need :** Need refreshing contents of their favorite stars at the right time without spending too much time searching  
 **User’s insight :** Because watching contents complementing their emotions make them feel better and energized.  
 
@@ -60,24 +60,29 @@ Please test on mobile device : Galaxy 7, 8 and 9 (excluding iPhone). Make sure t
 **Task 1 (View and filter the videos via the emotional filter):**  
 
 ![4](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/emotionfilter.png)
-![5](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/onboarding.png )
+![5](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/onboarding.png)  
+
 Emotional filter and onboarding
 
 
 **Task 2 (View and upvote comment jjals on the video):**  
 
-![6](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/jjal.png)
+![6](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/jjal.png)  
+
 Jjal  
+
 
 **Task 3 (Create your own jjal):**  
 
-![7](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/1b70c115/DP6/create_2.png)
+![7](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/1b70c115/DP6/create_2.png)  
+
 Add text  
 
 
 **Additional screenshots**    
 
-![profile](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/profile.png)
+![profile](https://cdn.rawgit.com/bzduck/CS374_HCI_pictures/6a0bfff1/DP6/profile.png)  
+
 Starred videos gallary
 
 
