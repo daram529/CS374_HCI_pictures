@@ -91,9 +91,11 @@ Minkyu Yun
 
 ## Session Observations
 
-After we changed out POV, we wanted to test our product to people from various age groups. So, we recruited one high school student, one university student and a researcher 
+After we changed out POV, we wanted to test our product to people from various age groups. So, we recruited one high school student, one university student and a researcher  
 
-**P1: Male / HS student / 17 / Joy (Red Velvet)/  0.0 hr per day**  
+**Note: When we said “Newbie” and “Intermediate”, we were really referring to “Moderate”, which we previously defined in DP1 as merely consuming their stars’ contents for their own good. Whereas, extreme are defined as “constantly, actively supporting their stars”. Extreme users in the ‘kpop idol’ domain tend to spend at least 5 hours a day exhibiting behaviors such as streaming overnight or spending hours making content in addition to consuming content.**
+
+**P1: Male / HS student / 17 / Joy (Red Velvet)/  0.0 hr per day / Moderate**  
 
 * Posted on a high school’s ‘대신 전해 드립니다’ FB page.  
 * He is a representative target user because he’s very busy studying as a high school students and doesn’t have enough time to search for contents at all. Only use phones at home after school.
@@ -103,7 +105,7 @@ After we changed out POV, we wanted to test our product to people from various a
 ![1](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/6ca9dcc5/DP7/P1.jpeg)  
 
 
-**P2: Male / Univ Student / 22 / Sana (Twice) / 4~5 hr per week**  
+**P2: Male / Univ Student / 22 / Sana (Twice) / 4~5 hr per week / Moderate**  
 
 * Recruited via advertisement on Ara  
 * He is a representative target user in that although he has a need to consume as many contents as possible, he only consume what’s given through facebook. He occasionally searches Twice’s music videos on Naver.
@@ -111,7 +113,7 @@ After we changed out POV, we wanted to test our product to people from various a
 
 ![2](https://cdn.rawgit.com/daram529/CS374_HCI_pictures/6ca9dcc5/DP7/P2.jpeg)  
 	
-**P3: Female / researcher / 35 / Kang Daniel (Wanna One)  / 2~3 hr per day**  
+**P3: Female / researcher / 35 / Kang Daniel (Wanna One)  / 2~3 hr per day / Moderate**  
 
 * Recruited via advertisement on Ara  
 * She is a representative target user in that she is a busy researcher also working for a startup company. She used lots of time fangirling, but did not have a concrete strategy to look for the exact video, which was why we thought she was a newbie.
@@ -148,6 +150,12 @@ After we changed out POV, we wanted to test our product to people from various a
 **(Solution) →** make it go back to the same video.
 
 
+## Other Issues
+
+* The current emotional categories didn’t fully reflect the users’ needs. For bored and sad, all of the users mentioned that they consume idol contents of different characteristics (ex. funny videos vs touching videos for sad). However, the users pointed out that they wouldn’t consume different contents or even wouldn’t consume at all for some of the emotional states. For example, P2 said that he doesn’t watch idol related contents at all when he feels happy or lonely. Also, for some emotional states, users wanted to consume videos of different complementary emotions. For example, when they’re sad, P1 wanted to see sad videos while P2 prefer funny videos that will make him laugh. In conclusion, kpop fans tend to search/consume kpop contents by the stars’ states/concepts not by their own states.
+**(Solution) →** We will make a new list of categories that better reflect the users’ needs and behaviors.
+
+
 ### High level reflections:
 
 * Prepare perfect environment setting, especially Wifi. In all of the three interviews, we have very weak Wifi connection and it affected video streaming when swiping. It was also highly due to the fact that the set times in the cafe were highly congested hours of internet consumption. 
@@ -161,19 +169,20 @@ After we changed out POV, we wanted to test our product to people from various a
 #### Feedback from the studio session includes:
 
  
-**Students' comments**
+**Students’ comments :**  
 
-*  xx 
-**(answer) →** xx
+* Did you actually use the word “짤" for your web/app? Think it’s a good information scent if the prototype was in Korean.
+**(answer) →** The service (interview) was in Korean. Thank you.
 
 
-**TA’s comments**
+**TA's comments :**  
 
-* xx 
-**(reflection) →** xx
+* Users are various with jobs, good.
+* Wish indicate whether how much they're newbie or not (newbie who don't have much time); recently studied fangirling / fanboying. Maybe need to define newbie/intermediate users because some people might not agree that users who spend 2~3 hours a day on idols are in the category of ‘newbie’.  
+**(answer) →** When we said “Newbie” and “Intermediate”, we were really referring to “Moderate”, which we previously defined in DP1 as merely consuming their stars’ contents for their own good. Whereas, extreme are defined as “constantly, actively supporting their stars”. We specified it when recruiting the interviewees and P3 was under the ‘moderate’ description. Extreme users in the ‘kpop idol’ domain tend to spend at least 5 hours a day exhibiting behaviors such as streaming overnight or spending hours making content in addition to consuming content.
+* Any other interesting observations other than usability issues? Such as emotion categories?
+**(answer) →** Some didn't consume different contents by emotions (happy, stressed). It differs by users. We will refer it in the report.
 
-* xx
-**(reflection) →** xx
 
 
 ## Plan for iteration:  
